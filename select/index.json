@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いまキミ愛してる",
+  "base_artist": "HIPPY",
+  "createdAt": "2026-02-12T08:27:04.176924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いまキミ愛してる (feat. 山猿)",
+      "artist": "HIPPY",
+      "has_synced": true,
+      "path": "select/01_いまキミ愛してる_(feat._山猿)_HIPPY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いまキミ愛してる (feat. 山猿)",
+      "artist": "HIPPY",
+      "has_synced": false,
+      "path": "select/pl_01_いまキミ愛してる_(feat._山猿)_HIPPY.txt"
+    }
+  ]
+}
